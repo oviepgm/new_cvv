@@ -1,0 +1,78 @@
+body{
+  background-color: powderblue;
+  text-align: center;
+  text-indent: 2px;
+  letter-spacing: 2px;
+
+}
+h1{
+
+  font-family: "Sofia", sans-serif;
+  font-size: 30px;
+  text-shadow: 3px 3px 3px #ababab;
+  text-indent: 2px;
+  line-height: 30px;
+  word-spacing: 10px;
+  letter-spacing: 2px;
+
+}
+.ovie_profile{
+  position: absolute;
+  right: 20px;
+  top: 50px;
+padding: 20px;
+}
+
+.new_header{
+  padding: 10px;
+  background-color: #B05E27;
+  line-height: 0.5px;
+  width: 600px;
+  height: 200px;
+  margin: auto;
+  font-family: 'Tangerine', serif;
+    font-size: 30px;
+
+
+}
+.aeti{
+  background: #F3950D;
+  letter-spacing: 2px;
+  text-indent: 2px;
+  text-align: left;
+  width: 800px;
+  height: 300px;
+  margin: auto;
+  padding: 10px;
+
+}
+.row{
+  border: solid 3px;
+  color: purple;
+}
+
+
+}
+.font-color{
+  font-weight: bold;
+  font-family:monospace;
+  font-size: 5px;
+  color:#F0E9D2;
+  letter-spacing: 2px;
+}
+.aeti_picture{
+
+  width: 800px;
+  height: 700px;
+  padding: 10px;
+  margin: auto;
+
+}
+.glo{
+  text-align: left;
+  background-color: #B85252;
+  width: 800px;
+  height: 250px;
+  margin: auto;
+  padding: 10px;
+}
